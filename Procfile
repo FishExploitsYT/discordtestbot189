@@ -1,2 +1,2 @@
-Worker node ./Bot.js
+Worker node ./src/Bot.js
 web npm start
